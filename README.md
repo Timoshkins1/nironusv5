@@ -1,7 +1,7 @@
 
 
 #Neironus
-Это только Демо ДЕмо Демо версия для андроид
+Это только Демо версия для андроид
 **Neironus** is an application for generating images based on textual prompts. Users can input textual prompts in Russian, which are then translated into English and used to generate images using the Pollinations API. The application also includes a chat feature with God, where users can send messages and receive responses using the Pollinations API for text generation.
 
 ## Key Features:
